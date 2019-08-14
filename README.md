@@ -2,6 +2,12 @@
 
 If people are retweeting [@hgmaassen](https://twitter.com/hgmaassen), who are they retweeting besides him? An analysis.
 
+<div align="center">
+  <img src="results/2_hgm_cluster_25.jpg" alt="clusters of twitter accounts">
+</div>
+
+## Background
+
 We construct an embedding for Twitter acounts to visualize clusters. We apply techniques normaly used to construct [Word Embeddings](https://www.google.com/search?q=word+embeddings&source=lnms&tbm=isch). As far as we know, we are the first ones to use the method like this.
 
 Method:
