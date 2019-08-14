@@ -12,7 +12,7 @@ Method:
 
 This will result into an image where points that are closer together have a similar retweet behaviour of its recipients.
 
-See <2_create_vis.ipynb> for more details.
+See [2_create_vis.ipynb](2_create_vis.ipynb) for more details.
 
 Some reference if you want to dig deeper in the (NLP) topic: ["Improving Distributional Similarity with Lessons Learned from Word Embeddings"](https://aclweb.org/anthology/papers/Q/Q15/Q15-1016/) by Omer Levy, Yoav Goldberg, Ido Dagan, TACL 2015.
 
