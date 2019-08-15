@@ -1,6 +1,6 @@
 # hgmaassen-retweets
 
-If people are retweeting [@hgmaassen](https://twitter.com/hgmaassen), who are they retweeting besides him? An analysis.
+If people are retweeting [@hgmaassen](https://twitter.com/hgmaassen), who are they retweeting besides him? An analysis. [Read the article](https://netzpolitik.org/2019/datenanalyse-maassens-follower-retweeten-rechtsradikale-accounts-aber-fast-nie-die-cdu/) (in German).
 
 <div align="center">
   <img src="results/2_hgm_cluster_25.jpg" alt="clusters of twitter accounts">
